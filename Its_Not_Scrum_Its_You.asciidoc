@@ -1,6 +1,6 @@
 == It's Not Scrum, It's You
 
-It's Not Scrum, It's You - Scott Dunn I was recently teaching a Certified Scrum Master class and was told by a student that Scrum didn't work because management still comes and demands additional features or projects and sets or keeps the deadlines and not asking for estimates of how long it will take.
+It's Not Scrum, It's You - Scott Dunn I was recently teaching a class and was told by a student that Scrum didn't work because management still comes and demands additional features or projects and sets or keeps the deadlines and not asking for estimates of how long it will take.
 
 That is not a Scrum problem. That's a business environment problem. And the solution is often the person lamenting it the most. Perhaps it's like the guy that complains about women because he is married to someone who makes demands and doesn't respect him. It's not women that's the problem, it's his allowing his wife to control him.
 
